@@ -14,7 +14,7 @@
   <p>Step05</p>
   <img src="https://github.com/Sameer18-Dev/CordovaSetUpGuide/blob/master/www/img/c5.PNG" width="750"><br>
   <p>Step06</p>
-  <img src="https://github.com/Sameer18-Dev/CordovaSetUpGuide/blob/master/www/img/c6.PNG" width="750">
+  <img src="https://github.com/Sameer18-Dev/CordovaSetUpGuide/blob/master/www/img/c6.png" width="750">
 </p>
 <br>
 
